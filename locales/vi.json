@@ -1,0 +1,123 @@
+{
+	"language": {
+		"en": "Tiếng Anh",
+		"vi": "Tiếng Việt"
+	},
+	"settings": {
+		"title": "CÀI ĐẶT",
+		"clearCache": "DỌN BỘ NHỚ"
+	},
+	"alert": {
+		"sorry": "Xin lỗi",
+		"maintenance": "Media Fetcher đang được bảo trì.",
+		"exit": "Thoát",
+		"sure": "Bạn chắc chứ?",
+		"confirmDelete": "Bạn có muốn loại bỏ mục này không?",
+		"ok": "Đồng ý",
+		"cancel": "Hủy bỏ"
+	},
+	"toast": {
+		"failed": {
+			"download": "Tải xuống thất bại!",
+			"createDataDirectory": "Tạo thư mục dữ liệu thất bại!",
+			"createCacheDirectory": "Tạo thư mục cache thất bại!",
+			"compress": "Nén tập tin thất bại!",
+			"process": "Xử lý tập tin thất bại!",
+			"removeExisting": "Thất bại khi xóa tệp!",
+			"writeData": "Ghi dữ liệu thất bại!",
+			"permission": {
+				"write": "Ứng dụng sẽ không thể lưu nội dung đã tải xuống nếu không được cấp quyền ghi dữ liệu!"
+			},
+			"clearCache": "Xóa bộ nhớ cache thất bại!"
+		},
+		"success": {
+			"download": "Tải xuống thành công!",
+			"permission": {
+				"write": "Cấp quyền ghi dữ liệu thành công!"
+			},
+			"clearCache": "Đã xóa bộ nhớ cache!"
+		},
+		"error": {
+			"getSave": "Có lỗi trong khi lấy lịch sử tải xuống!",
+			"save": "Có lỗi trong khi lưu lịch sử tải xuống!",
+			"delete": "Có lỗi xảy ra trong khi xóa một số tệp!",
+			"permission": {
+				"write": "Có lỗi trong khi yêu cầu quyền ghi dữ liệu!"
+			},
+			"clearCache": "Có lỗi trong khi xóa bộ nhớ cache!"
+		},
+		"takeLong": "Sẽ không mất nhiều thời gian để xử lý!",
+		"alreadyDownload": "Bạn đã tải xuống nội dung này rồi!",
+		"maintenance": {
+			"tiktok": "Tính năng tải nội dung từ TikTok đang được bảo trì."
+		}
+	},
+	"permission": {
+		"write": {
+			"title": "Xin được cấp quyền ghi dữ liệu.",
+			"message": "Tui cần được cấp quyền ghi dữ liệu để lưu nội dung đã tải xuống."
+		}
+	},
+	"data": {
+		"tiktok": {
+			"invalidURL": "Đường dẫn TikTok không hợp lệ.",
+			"liveUnsupported": "Không hỗ trợ video phát trực tiếp.",
+			"timeout": "Hết thời gian xử lý.",
+			"removeURL": "Không thể lấy dữ liệu về ID TikTok này. Có thể do nội dung đã bị xóa hoặc đặt về chế độ riêng tư."
+		},
+		"invalidURL": "Định dạng đường dẫn không hợp lệ.",
+		"notSupportedURL": "Không hỗ trợ đường dẫn này."
+	},
+	"searchBar": {
+		"placeholder": "Dán đường dẫn của bạn vào đây..."
+	},
+	"process": {
+		"getInfo": "Đang lấy thông tin...",
+		"downloading": "Đang tải xuống...",
+		"processing": "Đang xử lý..."
+	},
+	"downloadOptions": {
+		"download": "TẢI XUỐNG",
+		"with": "CÓ",
+		"without": "KHÔNG",
+		"original": "GỐC",
+		"watermark": "HÌNH MỜ",
+		"audio": "ÂM THANH",
+		"music": "NHẠC NỀN"
+	},
+	"media": {
+		"tiktok": {
+			"music": {
+				"notHaveSound": ["Đoạn phim không", "có âm thanh."],
+				"violatesCopyright": ["Âm thanh", "vi phạm bản quyền."]
+			},
+			"download": {
+				"watermark": "HÌNH MỜ",
+				"audio": "ÂM THANH"
+			},
+			"tabs": {
+				"video": "Đoạn phim",
+				"silentVideo": "Đoạn phim không âm thanh",
+				"story": "Hình ảnh",
+				"videoAudio": "Âm thanh",
+				"tiktokMusic": "Nhạc nền",
+				"storyAudio": "Âm thanh",
+				"diary": "Nhật ký",
+				"addYours": "Nối gót"
+			}
+		}
+	},
+	"sheet": {
+		"size": "Kích cỡ",
+		"type": [
+			"Loại",
+			"Đoạn phim",
+			"Âm thanh",
+			"Nhạc nền",
+			"Hình ảnh",
+			"Nhật ký",
+			"Nối gót"
+		],
+		"quality": ["Chất lượng", "Gốc"]
+	}
+}

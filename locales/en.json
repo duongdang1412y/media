@@ -1,0 +1,123 @@
+{
+	"language": {
+		"en": "English",
+		"vi": "Vietnamese"
+	},
+	"settings": {
+		"title": "SETTINGS",
+		"clearCache": "CLEAR CACHE"
+	},
+	"alert": {
+		"sorry": "Sorry",
+		"maintenance": "Media Fetcher is under maintenance.",
+		"exit": "Exit",
+		"sure": "Are you sure?",
+		"confirmDelete": "Do you want to remove this item?",
+		"ok": "OK",
+		"cancel": "Cancel"
+	},
+	"toast": {
+		"failed": {
+			"download": "Download failed!",
+			"createDataDirectory": "Failed to create data directory!",
+			"createCacheDirectory": "Failed to create cache directory!",
+			"compress": "Failed to compress!",
+			"process": "Failed to process!",
+			"removeExisting": "Failed to remove some existing files!",
+			"writeData": "Failed to write data to storage!",
+			"permission": {
+				"write": "Failed to grant permission to write data!"
+			},
+			"clearCache": "Failed to clear cache!"
+		},
+		"success": {
+			"download": "Download success!",
+			"permission": {
+				"write": "Successfully granted permission to write data!"
+			},
+			"clearCache": "Successfully cleared cache!"
+		},
+		"error": {
+			"getSave": "Error get saving download history!",
+			"save": "Error saving download history!",
+			"delete": "There were some errors that occurred while trying to delete the file!",
+			"permission": {
+				"write": "There were some errors that occurred while trying to grant permission to write data!"
+			},
+			"clearCache": "There were some errors that occurred while trying to clear cache!"
+		},
+		"takeLong": "This won't take long!",
+		"alreadyDownload": "You've already downloaded this content!",
+		"maintenance": {
+			"tiktok": "The feature to download content from TikTok is currently under maintenance."
+		}
+	},
+	"permission": {
+		"write": {
+			"title": "Please grant permission to write data.",
+			"message": "Media Fetcher needs to access your storage to save downloaded files."
+		}
+	},
+	"data": {
+		"tiktok": {
+			"invalidURL": "Invalid TikTok URL.",
+			"liveUnsupported": "Unsupported Live Video.",
+			"timeout": "Timeout.",
+			"removeURL": "Can't get data on this TikTok ID. Maybe because the content has been deleted or set to private."
+		},
+		"invalidURL": "Invalid URL format.",
+		"notSupportedURL": "Not supported URL."
+	},
+	"searchBar": {
+		"placeholder": "Paste your link here..."
+	},
+	"process": {
+		"getInfo": "Getting info...",
+		"downloading": "Downloading...",
+		"processing": "Processing..."
+	},
+	"downloadOptions": {
+		"download": "DOWNLOAD",
+		"with": "WITH",
+		"without": "WITHOUT",
+		"original": "ORIGINAL",
+		"watermark": "WATERMARK",
+		"audio": "AUDIO",
+		"music": "MUSIC"
+	},
+	"media": {
+		"tiktok": {
+			"music": {
+				"notHaveSound": ["Video doesn't", "have sound."],
+				"violatesCopyright": ["The sound", "violates copyright."]
+			},
+			"download": {
+				"watermark": "W.MARK",
+				"audio": "AUDIO"
+			},
+			"tabs": {
+				"video": "Video",
+				"silentVideo": "Silent Video",
+				"story": "Image",
+				"videoAudio": "Audio",
+				"tiktokMusic": "Background Music",
+				"storyAudio": "Audio",
+				"diary": "Story",
+				"addYours": "Add Yours"
+			}
+		}
+	},
+	"sheet": {
+		"size": "Size",
+		"type": [
+			"Type",
+			"Video",
+			"Audio",
+			"Music",
+			"Image",
+			"Story",
+			"Add yours"
+		],
+		"quality": ["Quality", "Original"]
+	}
+}
