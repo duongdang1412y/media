@@ -118,6 +118,11 @@
 			"Nhật ký",
 			"Nối gót"
 		],
-		"quality": ["Chất lượng", "Gốc"]
+		"quality": ["Chất lượng", "Gốc"],
+		"media": {
+			"nothing": "Không có lịch sử tải xuống.",
+			"tiktok": "Truy cập vào tiktok để lấy đường dẫn phương tiện.",
+			"facebook": "Truy cập vào facebook để lấy đường dẫn phương tiện."
+		}
 	}
 }
