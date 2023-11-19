@@ -118,6 +118,11 @@
 			"Story",
 			"Add yours"
 		],
-		"quality": ["Quality", "Original"]
+		"quality": ["Quality", "Original"],
+		"media": {
+			"nothing": "No download history.",
+			"tiktok": "Visit tiktok to get the media link.",
+			"facebook": "Visit facebook to get the media link."
+		}
 	}
 }
