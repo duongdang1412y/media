@@ -121,8 +121,13 @@
 		"quality": ["Chất lượng", "Gốc"],
 		"media": {
 			"nothing": "Không có lịch sử tải xuống.",
-			"tiktok": "Truy cập vào tiktok để lấy đường dẫn phương tiện.",
-			"facebook": "Truy cập vào facebook để lấy đường dẫn phương tiện."
+			"tiktok": "Truy cập vào Tiktok để lấy đường dẫn phương tiện.",
+			"facebook": "Truy cập vào Facebook để lấy đường dẫn phương tiện.",
+			"instagram": "Truy cập vào Instagram để lấy đường dẫn phương tiện.",
+			"tinder": "Truy cập vào Tinder để lấy đường dẫn phương tiện.",
+			"threads": "Truy cập vào Threads để lấy đường dẫn phương tiện.",
+			"snapchat": "Truy cập vào Snapchat để lấy đường dẫn phương tiện.",
+			"x": "Truy cập vào X để lấy đường dẫn phương tiện."
 		}
 	}
 }
