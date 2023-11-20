@@ -121,8 +121,13 @@
 		"quality": ["Quality", "Original"],
 		"media": {
 			"nothing": "No download history.",
-			"tiktok": "Visit tiktok to get the media link.",
-			"facebook": "Visit facebook to get the media link."
+			"tiktok": "Visit Tiktok to get the media link.",
+			"facebook": "Visit Facebook to get the media link.",
+			"instagram": "Visit Instagram to get the media link.",
+			"tinder": "Visit Tinder to get the media link.",
+			"threads": "Visit Threads to get the media link.",
+			"snapchat": "Visit Snapchat to get the media link.",
+			"x": "Visit X to get the media link."
 		}
 	}
 }
